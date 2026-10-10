@@ -1,0 +1,6 @@
+{
+  "name": "Premium Barbershop Gaithersburg",
+  "description": "An elegant, interactive website for Gaithersburg's premier modern-classic barbershop, featuring detailed services, an active booking experience, stylist profiles, and local details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
